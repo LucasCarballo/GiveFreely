@@ -1,0 +1,3 @@
+namespace GiveFreely.Application.Features.AffiliateFeatures.GetAffiliateReport;
+
+public sealed record GetAffiliateReportResponse(int ConsumersCount);
